@@ -1,0 +1,1 @@
+# Mini_Project-36-Multi-Text_Extraction_from_Images-
